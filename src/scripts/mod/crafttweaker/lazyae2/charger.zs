@@ -1,0 +1,1 @@
+mods.threng.Energizer.addRecipe(<draconicevolution:draconium_block:1>, <draconicevolution:draconium_block>, 16000);

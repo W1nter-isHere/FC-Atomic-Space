@@ -1,0 +1,60 @@
+
+//Plate Pressor Enderium/Lumium/Signalum/Constanstan/Bronze/Invar/Electrum/ManaInfusedPlate/Platinum/Nickel/Lead/Silver
+mods.advancedrocketry.PlatePresser.addRecipe(
+	<thermalfoundation:material:359>*4,
+	<thermalfoundation:storage_alloy:7>*1
+);
+mods.advancedrocketry.PlatePresser.addRecipe(
+	<thermalfoundation:material:358>*4,
+	<thermalfoundation:storage_alloy:6>*1
+);
+mods.advancedrocketry.PlatePresser.addRecipe(
+	<thermalfoundation:material:357>*4,
+	<thermalfoundation:storage_alloy:5>*1
+);
+mods.advancedrocketry.PlatePresser.addRecipe(
+	<thermalfoundation:material:356>*4,
+	<thermalfoundation:storage_alloy:4>*1
+);
+mods.advancedrocketry.PlatePresser.addRecipe(
+	<thermalfoundation:material:355>*4,
+	<thermalfoundation:storage_alloy:3>*1
+);
+mods.advancedrocketry.PlatePresser.addRecipe(
+	<thermalfoundation:material:354>*4,
+	<thermalfoundation:storage_alloy:2>*1
+);
+mods.advancedrocketry.PlatePresser.addRecipe(
+	<thermalfoundation:material:353>*4,
+	<thermalfoundation:storage_alloy:1>*1
+);
+mods.advancedrocketry.PlatePresser.addRecipe(
+	<thermalfoundation:material:328>*4,
+	<thermalfoundation:storage:8>*1
+);
+mods.advancedrocketry.PlatePresser.addRecipe(
+	<thermalfoundation:material:326>*4,
+	<thermalfoundation:storage:6>*1
+);
+mods.advancedrocketry.PlatePresser.addRecipe(
+	<thermalfoundation:material:325>*4,
+	<thermalfoundation:storage:5>*1
+);
+mods.advancedrocketry.PlatePresser.addRecipe(
+	<thermalfoundation:material:323>*4,
+	<thermalfoundation:storage:3>*1
+);
+mods.advancedrocketry.PlatePresser.addRecipe(
+	<thermalfoundation:material:322>*4,
+	<thermalfoundation:storage:2>*1
+);
+
+mods.advancedrocketry.PlatePresser.addRecipe(
+	<contenttweaker:compact_metal_plate>*4,
+	<contenttweaker:sub_block_holder_1:8>*1
+);
+
+mods.advancedrocketry.PlatePresser.addRecipe(
+	<contenttweaker:terrasteel_plate>*4,
+	<botania:storage:1>*1
+);
