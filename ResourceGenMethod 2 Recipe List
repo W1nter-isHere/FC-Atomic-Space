@@ -1,13 +1,13 @@
-*Output*	*Fluid 1*	*Fluid 2*
-Gravel	Water	Distilled Water
-Slime 	Water	Liquid Milk
-Clay	Distilled Water	Liquid Milk
-Coal IO	Lava	Clay MF
-Iron IO	Liquid Milk	Clay MF
-Tin IO	Iron MF	Clay MF
-Copper IO	Steel MF	Coal MF
-Gold IO 	Iron MF	Copper MF
-BlackQuartz IO	Quartz MF	Coal MF
+*Output*	      *Fluid 1*	      *Fluid 2*
+Gravel	        Water	          Distilled Water
+Slime 	        Water	          Liquid Milk
+Clay	          Distilled Water	Liquid Milk
+Coal IO	        Lava	          Clay MF
+Iron IO	        Liquid Milk	    Clay MF
+Tin IO	        Iron MF	        Clay MF
+Copper IO	      Steel MF	      Coal MF
+Gold IO 	      Iron MF	        Copper MF
+BlackQuartz IO	Quartz MF	      Coal MF
 Glitched IO	Lapis MF	Lead MF
 Terrasteel IO	Enderium MF	Diamond MF
 Vibrant Alloy IO	Energetic Alloy MF	Glitched MF
