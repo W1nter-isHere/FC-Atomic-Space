@@ -1,0 +1,50 @@
+*Output*	*Fluid 1*	*Fluid 2*
+Gravel	Water	Distilled Water
+Slime 	Water	Liquid Milk
+Clay	Distilled Water	Liquid Milk
+Coal IO	Lava	Clay MF
+Iron IO	Liquid Milk	Clay MF
+Tin IO	Iron MF	Clay MF
+Copper IO	Steel MF	Coal MF
+Gold IO 	Iron MF	Copper MF
+BlackQuartz IO	Quartz MF	Coal MF
+Glitched IO	Lapis MF	Lead MF
+Terrasteel IO	Enderium MF	Diamond MF
+Vibrant Alloy IO	Energetic Alloy MF	Glitched MF
+Energetic Alloy IO	Electrum MF	Redstone MF
+Bronze IO	Copper MF	Tin MF
+Osmium IO	Diamond MF	Lead MF
+Platinum IO	Osmium MF	Silver MF
+StarMetal IO	Obsidian MF	Compact Metal MF
+Invar IO	Nickel MF	Iron MF
+Soularium IO	Clay MF	Gold MF
+Lapis IO	Clay MF	Distilled Water
+Mithril IO	Energetic Alloy MF	Silver MF
+Manasteel IO	Platinum MF	Aquamarine MF
+Redstone IO	Lava	Distilled Water
+Uranium IO	Emerald MF	Quartz MF
+Lead IO	Lapis MF	Quartz MF
+Pulsating Iron IO	Emerald MF	Invar MF
+Enderium IO	Platinum MF	Pulsating Iron MF
+Redstone Alloy IO	Redstone MF	Silicon MF
+Quartz IO	Coal MF	Lapis MF
+Nickel IO	Copper MF	Iron MF
+Compact Metal IO	Glitched MF	Diamond MF
+Electrical Steel IO	Steel MF	Silicon MF
+Signalum IO	RedstoneAlloy MF	Copper MF
+Titanium IO	Elementium MF	Endsteel MF
+Steel IO	Coal MF	Iron MF
+Emerald IO	Liquid Milk	Diamond MF
+Silicon IO	Coal MF	BlackQuartz MF
+Endsteel IO	Lumium MF	Darksteel MF
+Elementium IO	Manasteel MF	Enderium MF
+Sodium IO	Lead MF	Obsidian MF
+Electrum IO	Gold MF	Silver MF
+Aluminum IO	Silver MF	Quartz MF
+Silver IO	Tin MF	Quartz MF
+Diamond IO	Aquamarine MF	Quartz MF
+ConductiveIron IO	Iron MF	Redstone MF
+Aquamarine IO	Lapis MF	Quartz MF
+Darksteel IO	Obsidian MF	Steel MF
+Iridium IO	Titanium MF	Terrasteel MF
+Lumium IO	Electrum MF	Tin MF
