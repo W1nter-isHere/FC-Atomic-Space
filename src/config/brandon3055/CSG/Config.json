@@ -1,0 +1,10 @@
+{
+  "inventory": {
+    "0:0": "ftbquests:book",
+    "1:2": "nuclearcraft:chest_hazmat",
+    "1:3": "nuclearcraft:helm_hazmat",
+    "1:0": "nuclearcraft:boots_hazmat",
+    "1:1": "nuclearcraft:legs_hazmat",
+    "0:1": "nuclearcraft:geiger_counter"
+  }
+}
