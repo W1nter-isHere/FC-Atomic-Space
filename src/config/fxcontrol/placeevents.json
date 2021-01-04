@@ -1,0 +1,7 @@
+[
+ {
+   "dimension": 1104,
+   "message": "Placing blocks here might cause the dimension to collapse!",
+   "result": "deny"
+ }
+]
