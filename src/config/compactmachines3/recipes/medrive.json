@@ -1,0 +1,38 @@
+{
+	"name": "compactmachine3:medrive",
+	"target-item": "appliedenergistics2:drive",
+	"target-meta": 0,
+	"target-count": 1,
+	
+	"duration": 800,
+	
+	"catalyst": "appliedenergistics2:material",
+	"catalyst-meta": 24,
+	
+	"input-types": {
+		"s" : { "id": "appliedenergistics2:smooth_sky_stone_block"},
+		"g" : { "id": "minecraft:glowstone"},
+		"e" : { "id": "thermalfoundation:storage_alloy", "meta": 7},
+		"p" : { "id": "enderio:block_alloy", "meta": 5}
+	},
+	
+	"symmetrical": true,
+	
+	"shape": [
+		[
+			["s","s","s"],
+			["s","s","s"],
+			["s","s","s"]
+		],
+		[
+			["p","g","p"],
+			["g","e","g"],
+			["p","g","p"]
+		],
+		[
+			["s","s","s"],
+			["s","s","s"],
+			["s","s","s"]
+		]
+	]
+}

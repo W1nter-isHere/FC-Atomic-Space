@@ -1,0 +1,36 @@
+{
+	"name": "compactmachine3:compactmetal",
+	"target-item": "contenttweaker:compact_metal_ingot",
+	"target-meta": 0,
+	"target-count": 15,
+	
+	"duration": 600,
+	
+	"catalyst": "deepmoblearning:glitch_fragment",
+	"catalyst-meta": 0,
+	
+	"input-types": {
+		"g" : { "id": "deepmoblearning:infused_ingot_block"},
+		"c" : { "id": "compactmachines3:wallbreakable"}
+	},
+	
+	"symmetrical": true,
+	
+	"shape": [
+		[
+			["c","c","c","c","c"],
+			["c","c","c","c","c"],
+			["c","c","c","c","c"]
+		],
+		[
+			["c","c","c","c","c"],
+			["c","g","g","g","c"],
+			["c","c","c","c","c"]
+		],
+		[
+			["c","c","c","c","c"],
+			["c","c","c","c","c"],
+			["c","c","c","c","c"]
+		]
+	]
+}

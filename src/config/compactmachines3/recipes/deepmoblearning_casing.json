@@ -1,0 +1,38 @@
+{
+	"name": "compactmachine3:dmlcasing",
+	"target-item": "deepmoblearning:machine_casing",
+	"target-meta": 0,
+	"target-count": 1,
+	
+	"duration": 400,
+	
+	"catalyst": "deepmoblearning:soot_covered_plate",
+	"catalyst-meta": 0,
+	
+	"input-types": {
+		"o" : { "id": "minecraft:obsidian"},
+		"e" : { "id": "enderio:block_alloy", "meta": 8},
+		"c" : { "id": "minecraft:coal_block"},
+		"a" : { "id": "actuallyadditions:block_misc", "meta": 2}
+	},
+	
+	"symmetrical": true,
+	
+	"shape": [
+		[
+			["a","o","a"],
+			["o","c","o"],
+			["a","o","a"]
+		],
+		[
+			["o","c","o"],
+			["c","e","c"],
+			["o","c","o"]
+		],
+		[
+			["a","o","a"],
+			["o","c","o"],
+			["a","o","a"]
+		]
+	]
+}

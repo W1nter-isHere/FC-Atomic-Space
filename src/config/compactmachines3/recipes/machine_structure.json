@@ -1,0 +1,39 @@
+{
+	"name": "compactmachine3:machine_structure",
+	"target-item": "libvulpes:structuremachine",
+	"target-meta": 0,
+	"target-count": 1,
+	
+	"duration": 400,
+	
+	"catalyst": "nuclearcraft:part",
+	"catalyst-meta": 10,
+	
+	"input-types": {
+		"l" : { "id": "nuclearcraft:ingot_block", "meta": 6},
+		"e" : { "id": "botania:storage", "meta": 2},
+		"i" : { "id": "immersiveengineering:sheetmetal", "meta": 9},
+		"c" : { "id": "contenttweaker:sub_block_holder_1", "meta": 9},
+		"n" : { "id": "thermalfoundation:storage_alloy", "meta": 7}
+	},
+	
+	"symmetrical": true,
+	
+	"shape": [
+		[
+			["i","e","i"],
+			["e","c","e"],
+			["i","e","i"]
+		],
+		[
+			["e","n","e"],
+			["n","l","n"],
+			["e","n","e"]
+		],
+		[
+			["i","e","i"],
+			["e","c","e"],
+			["i","e","i"]
+		]
+	]
+}

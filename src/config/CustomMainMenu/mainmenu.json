@@ -1,0 +1,124 @@
+{
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "menu.singleplayer",
+            "posX" : -230,
+            "posY" : 230,
+            "width" : 50,
+            "height" : 20,
+			"normalTextColor" : 12303291,
+			"texture" : "fictioncraft:menu/RasterMusic.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+        
+        "multiplayer":
+        {
+            "text" : "menu.multiplayer",
+            "posX" : -160,
+            "posY" : 230,
+            "width" : 50,
+            "height" : 20,
+			"normalTextColor" : 12303291,
+			"texture" : "fictioncraft:menu/RasterMusic.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+        
+        "mods":
+        {
+            "text" : "fml.menu.mods",
+            "posX" : 100,
+            "posY" : 230,
+            "width" : 25,
+            "height" : 20,
+			"normalTextColor" : 12303291,
+			"texture" : "fictioncraft:menu/RasterMusic.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+            
+        "options":
+        {
+            "text" : "menu.options",
+            "posX" : -90,
+            "posY" : 230,
+            "width" : 50,
+            "height" : 20,
+			"normalTextColor" : 12303291,
+			"texture" : "fictioncraft:menu/RasterMusic.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+        
+        "quit":
+        {
+            "text" : "menu.quit",
+            "posX" : 170,
+            "posY" : 230,
+            "width" : 25,
+            "height" : 20,
+			"normalTextColor" : 12303291,
+			"hoverTextColor" : 14483456,
+			"texture" : "fictioncraft:menu/RasterMusic.png",
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        },
+		
+		"Discord":
+		{
+			"text" : "Discord",
+			"posX" : -20,
+			"posY" : 230,
+			"width" : 50,
+			"height" : 20,
+			"normalTextColor" : 12303291,
+			"texture" : "fictioncraft:menu/RasterMusic.png",
+			"action": {
+                "type": "openLink",
+                "link": "https://discord.gg/FatHApd"
+            }
+		},
+		
+		"Music":
+		{
+			"text" : "menu.music",
+			"posX" : 150,
+			"posY" : -85,
+			"width" : 130,
+			"height" : 20,
+			"normalTextColor" : 12303291,
+			"texture" : "fictioncraft:menu/RasterMusic.png",
+			"action": {
+                "type": "openLink",
+                "link": "https://www.youtube.com/channel/UCI0-H7RNBlViiDbfWmxFXTA"
+            }
+		}
+    },
+    
+    "other":
+    {
+        "background":
+        {
+            "image": "fictioncraft:menu/4.png",
+            "mode": "stretch"
+            }
+        }
+    }
+}

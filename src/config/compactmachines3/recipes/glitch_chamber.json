@@ -1,0 +1,38 @@
+{
+	"name": "compactmachine3:glitchchamber",
+	"target-item": "contenttweaker:glitchchamber",
+	"target-meta": 0,
+	"target-count": 1,
+	
+	"duration": 100,
+	
+	"catalyst": "roost:chicken",
+	"catalyst-meta": 0,
+	"catalyst-nbt": "{Growth: 1, Chicken: \"chickens:smartchicken\", Gain: 1, Strength: 1}",
+	
+	"input-types": {
+		"a" : { "id": "twilightforest:block_storage", "meta": 1},
+		"b" : { "id": "compactmachines3:wallbreakable"},
+		"c" : { "id": "deepmoblearning:infused_ingot_block"}
+	},
+	
+	"symmetrical": true,
+	
+	"shape": [
+		[
+			["b","a","b"],
+			["a","a","a"],
+			["b","a","b"]
+		],
+		[
+			["a","a","a"],
+			["a","c","a"],
+			["a","a","a"]
+		],
+		[
+			["b","a","b"],
+			["a","a","a"],
+			["b","a","b"]
+		]
+	]
+}

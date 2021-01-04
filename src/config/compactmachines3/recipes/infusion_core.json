@@ -1,0 +1,60 @@
+{
+	"name": "compactmachine3:infusion_core",
+	"target-item": "draconicevolution:fusion_crafting_core",
+	"target-meta": 0,
+	"target-count": 1,
+	
+	"duration": 1000,
+	
+	"catalyst": "draconicevolution:dragon_heart",
+	"catalyst-meta": 0,
+	
+	"input-types": {
+		"f" : { "id": "enderio:block_fused_quartz"},
+		"c" : { "id": "minecraft:concrete", "meta": 8},
+		"l" : { "id": "minecraft:lapis_block"},
+		"d" : { "id": "minecraft:diamond_block"},
+		"m" : { "id": "astralsorcery:blockmarble"},
+		"a" : { "id": "draconicevolution:draconium_block"}
+	},
+	
+	"symmetrical": true,
+	
+	"shape": [
+		[
+			["l","c","c","c","l"],
+			["c","f","f","f","c"],
+			["c","f","f","f","c"],
+			["c","f","f","f","c"],
+			["l","c","c","c","l"]
+		],
+		[
+			["d","f","f","f","d"],
+			["f","m","m","m","f"],
+			["f","m","m","m","f"],
+			["f","m","m","m","f"],
+			["d","f","f","f","d"]
+		],
+		[
+			["c","f","f","f","c"],
+			["f","m","m","m","f"],
+			["f","m","a","m","f"],
+			["f","m","m","m","f"],
+			["c","f","f","f","c"]
+		],
+		[
+			["d","f","f","f","d"],
+			["f","m","m","m","f"],
+			["f","m","m","m","f"],
+			["f","m","m","m","f"],
+			["d","f","f","f","d"]
+		],
+		[
+			["l","c","c","c","l"],
+			["c","f","f","f","c"],
+			["c","f","f","f","c"],
+			["c","f","f","f","c"],
+			["l","c","c","c","l"]
+		]
+	]
+}

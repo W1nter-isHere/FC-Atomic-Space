@@ -1,0 +1,37 @@
+{
+	"name": "compactmachine3:electricalsteelchicken",
+	"target-item": "roost:chicken",
+	"target-nbt": "{Growth: 1, Chicken: \"morechickens:electricalsteelchicken\", Gain: 1, Strength: 1}",
+	"target-meta": 0,
+	"target-count": 1,
+	
+	"duration": 200,
+	
+	"catalyst": "roost:chicken",
+	"catalyst-nbt": "{Growth: 10, Chicken: \"morechickens:steelchicken\", Gain: 10, Strength: 10}",
+	"catalyst-meta": 0,
+	
+	"input-types": {
+		"a" : { "id": "enderio:block_alloy"}
+	},
+	
+	"symmetrical": true,
+	
+	"shape": [
+		[
+			["a","a","a"],
+			["a","a","a"],
+			["a","a","a"]
+		],
+		[
+			["a","a","a"],
+			["a","a","a"],
+			["a","a","a"]
+		],
+		[
+			["a","a","a"],
+			["a","a","a"],
+			["a","a","a"]
+		]
+	]
+}

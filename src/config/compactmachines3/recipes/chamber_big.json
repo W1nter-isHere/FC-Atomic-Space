@@ -1,0 +1,38 @@
+{
+	"name": "compactmachine3:chamber_big",
+	"target-item": "chambers:big_compact_chamber",
+	"target-meta": 0,
+	"target-count": 1,
+	
+	"duration": 800,
+	
+	"catalyst": "contenttweaker:compact_metal_rod",
+	"catalyst-meta": 0,
+	
+	"input-types": {
+		"p" : { "id": "pneumaticcraft:compressed_iron_block"},
+		"s" : { "id": "contenttweaker:sub_block_holder_1", "meta": 9},
+		"c" : { "id": "chambers:compact_chamber"},
+		"w" : { "id": "compactmachines3:wallbreakable"}
+	},
+	
+	"symmetrical": true,
+	
+	"shape": [
+		[
+			["w","p","w"],
+			["s","w","s"],
+			["w","p","w"]
+		],
+		[
+			["p","w","s"],
+			["w","c","w"],
+			["s","w","p"]
+		],
+		[
+			["w","s","w"],
+			["p","w","p"],
+			["w","s","w"]
+		]
+	]
+}

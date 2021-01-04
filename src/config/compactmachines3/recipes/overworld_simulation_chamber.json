@@ -1,0 +1,36 @@
+{
+	"name": "compactmachine3:ovsimchamber",
+	"target-item": "contenttweaker:ovsimchamber",
+	"target-meta": 0,
+	"target-count": 1,
+	
+	"duration": 200,
+	
+	"catalyst": "astralsorcery:blockcollectorcrystal",
+	"catalyst-meta": 0,
+	
+	"input-types": {
+		"a" : { "id": "compactmachines3:wallbreakable"},
+		"b" : { "id": "minecraft:grass"}
+	},
+	
+	"symmetrical": true,
+	
+	"shape": [
+		[
+			["a","a","a"],
+			["a","a","a"],
+			["a","a","a"]
+		],
+		[
+			["a","a","a"],
+			["a","b","a"],
+			["a","a","a"]
+		],
+		[
+			["a","a","a"],
+			["a","a","a"],
+			["a","a","a"]
+		]
+	]
+}
