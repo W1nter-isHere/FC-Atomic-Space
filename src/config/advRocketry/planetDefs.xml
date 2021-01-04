@@ -1,0 +1,114 @@
+<galaxy>
+    <star name="Sol" temp="100" x="0" y="0" numPlanets="0" numGasGiants="0">
+        <planet name="Mercury" DIMID="800">
+            <skyColor>0,0,0</skyColor>
+            <atmosphereDensity>150</atmosphereDensity>
+            <gravitationalMultiplier>38</gravitationalMultiplier>
+            <orbitalDistance>40</orbitalDistance>
+            <rotationalPeriod>1400000</rotationalPeriod>
+        </planet>
+        <planet name="Venus" DIMID="801">
+            <skyColor>0,0,0</skyColor>
+            <fogColor>0.9,0.9,0.9</fogColor>
+            <atmosphereDensity>195</atmosphereDensity>
+            <gravitationalMultiplier>90</gravitationalMultiplier>
+            <orbitalDistance>72</orbitalDistance>
+            <rotationalPeriod>2784000</rotationalPeriod>
+        </planet>
+        <planet name="Mars" DIMID="802">
+            <skyColor>1,0.2,0</skyColor>
+            <fogColor>0.9,0.6,0.1</fogColor>
+            <atmosphereDensity>20</atmosphereDensity>
+            <orbitalDistance>105</orbitalDistance>
+            <gravitationalMultiplier>38</gravitationalMultiplier>
+            <rotationalPeriod>24000</rotationalPeriod>
+        </planet>
+        <planet name="Jupiter" DIMID="803">
+            <GasGiant>true</GasGiant>
+            <orbitalDistance>120</orbitalDistance>
+            <rotationalPeriod>9900</rotationalPeriod>
+        </planet>
+        <planet name="Saturn" DIMID="804">
+            <GasGiant>true</GasGiant>
+            <orbitalDistance>130</orbitalDistance>
+            <rotationalPeriod>10600</rotationalPeriod>
+        </planet>
+        <planet name="Uranus" DIMID="805">
+            <skyColor>0,0.9,1</skyColor>
+            <fogColor>0.9,0.9,0.9</fogColor>
+            <atmosphereDensity>10</atmosphereDensity>
+            <orbitalDistance>150</orbitalDistance>
+            <gravitationalMultiplier>89</gravitationalMultiplier>
+            <rotationalPeriod>17250</rotationalPeriod>
+        </planet>
+        <planet name="Neptune" DIMID="806">
+            <skyColor>0,0.5,1</skyColor>
+            <atmosphereDensity>0</atmosphereDensity>
+            <orbitalDistance>180</orbitalDistance>
+            <gravitationalMultiplier>110</gravitationalMultiplier>
+            <rotationalPeriod>16100</rotationalPeriod>
+        </planet>
+        <planet name="Pluto" DIMID="807">
+            <atmosphereDensity>0</atmosphereDensity>
+            <orbitalDistance>190</orbitalDistance>
+            <gravitationalMultiplier>20</gravitationalMultiplier>
+            <rotationalPeriod>153000</rotationalPeriod>
+        </planet>
+        <planet name="Ocenato" DIMID="1105" dimMapping="" customIcon="gasgiantblue">
+            <fogColor>0xf5ecb3</fogColor>
+            <skyColor>0x5e5c4a</skyColor>
+            <isKnown>true</isKnown>
+            <atmosphereDensity>105</atmosphereDensity>
+            <gravitationalMultiplier>350</gravitationalMultiplier>
+            <orbitalDistance>2000</orbitalDistance>
+            <rotationalPeriod>4800</rotationalPeriod>
+        </planet>
+    </star>
+    <star name="Time Rift" temp="100" x="0" y="0" numPlanets="0" numGasGiants="0">
+        <planet name="Overworld-2464" DIMID="1102" dimMapping="" customIcon="gasgiantblue">
+            <fogColor>0xbee4e6</fogColor>
+            <skyColor>0x000036</skyColor>
+            <isKnown>true</isKnown>
+            <atmosphereDensity>110</atmosphereDensity>
+            <gravitationalMultiplier>100</gravitationalMultiplier>
+            <orbitalDistance>2000</orbitalDistance>
+            <rotationalPeriod>9999999999999999999999999</rotationalPeriod>
+            <biomeIds>78</biomeIds>
+                <planet name="Overworld-2400-Danger Zone" DIMID="4598" dimMapping="" customIcon="venusian">
+                    <fogColor>0xf5ecb3</fogColor>
+                    <skyColor>0x5e5c4a</skyColor>
+                    <isKnown>true</isKnown>
+                    <atmosphereDensity>105</atmosphereDensity>
+                    <gravitationalMultiplier>100</gravitationalMultiplier>
+                    <orbitalDistance>2000</orbitalDistance>
+                    <rotationalPeriod>4800</rotationalPeriod>
+                    <biomeIds>63</biomeIds>
+                </planet>
+        </planet>
+        <planet name="Overworld-2020" DIMID="0" customIcon="earthlike">
+            <fogColor>0xe6f0f5</fogColor>
+            <skyColor>0x98cfeb</skyColor>
+            <isKnown>false</isKnown>
+            <atmosphereDensity>100</atmosphereDensity>
+            <gravitationalMultiplier>100</gravitationalMultiplier>
+            <artifact>draconicevolution:awakened_core 0</artifact>
+                <planet DIMID="808" name="Luna">
+                    <fogColor>1.0,1.0,1.0</fogColor>
+                    <skyColor>1.0,1.0,1.0</skyColor>
+                    <gravitationalMultiplier>16</gravitationalMultiplier>
+                    <orbitalDistance>150</orbitalDistance>
+                    <orbitalTheta>0</orbitalTheta>
+                    <orbitalPhi>10</orbitalPhi>
+                    <avgTemperature>255</avgTemperature>
+                    <rotationalPeriod>128000</rotationalPeriod>
+                    <atmosphereDensity>0</atmosphereDensity>
+                    <generateCraters>true</generateCraters>
+                    <generateVolcanos>false</generateVolcanos>
+                    <generateStructures>false</generateStructures>
+                    <generateGeodes>false</generateGeodes>
+                    <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
+                    <biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
+                </planet>
+        </planet>
+    </star>
+</galaxy>
