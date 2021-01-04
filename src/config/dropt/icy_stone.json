@@ -1,0 +1,22 @@
+{
+  "rules": [
+    {
+      "match": {
+        "blocks": {
+          "blocks": [
+            "contenttweaker:ice_stone"
+          ]
+        }
+      },
+      "drops": [
+        {
+          "item": {
+            "items" : [
+              "quark:biome_cobblestone:1"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

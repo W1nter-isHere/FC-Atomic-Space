@@ -1,0 +1,77 @@
+{
+  "rules": [
+    {
+      "match": {
+        "blocks": {
+          "blocks": [
+            "sky_orchards:amber_goo"
+          ]
+        }
+      },
+      "drops": [
+        {
+          "item": {
+            "items" : [
+              "minecraft:clay_ball"
+            ],
+			"quantity": {
+              "min": 2,
+              "max": 4
+            }
+          }
+        },
+		{
+          "selector": {
+            "weight": {
+              "value": 30
+            },
+            "fortuneLevelRequired": 1
+          },
+          "item": {
+            "items": [
+              "minecraft:redstone"
+            ],
+            "quantity": {
+              "min": 4,
+              "max": 6
+            }
+          }
+        },
+		{
+          "selector": {
+            "weight": {
+              "value": 50
+            },
+            "fortuneLevelRequired": 2
+          },
+          "item": {
+            "items": [
+              "minecraft:redstone"
+            ],
+            "quantity": {
+              "min": 6,
+              "max": 8
+            }
+          }
+        },
+		{
+          "selector": {
+            "weight": {
+              "value": 60
+            },
+            "fortuneLevelRequired": 3
+          },
+          "item": {
+            "items": [
+              "minecraft:redstone"
+            ],
+            "quantity": {
+              "min": 8,
+              "max": 10
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

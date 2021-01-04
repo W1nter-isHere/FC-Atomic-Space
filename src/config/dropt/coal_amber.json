@@ -1,0 +1,77 @@
+{
+  "rules": [
+    {
+      "match": {
+        "blocks": {
+          "blocks": [
+            "sky_orchards:amber_coal"
+          ]
+        }
+      },
+      "drops": [
+        {
+          "item": {
+            "items" : [
+              "minecraft:coal"
+            ],
+			"quantity": {
+              "min": 1,
+              "max": 3
+            }
+          }
+        },
+		{
+          "selector": {
+            "weight": {
+              "value": 20
+            },
+            "fortuneLevelRequired": 1
+          },
+          "item": {
+            "items": [
+              "minecraft:coal"
+            ],
+            "quantity": {
+              "min": 3,
+              "max": 4
+            }
+          }
+        },
+		{
+          "selector": {
+            "weight": {
+              "value": 40
+            },
+            "fortuneLevelRequired": 2
+          },
+          "item": {
+            "items": [
+              "minecraft:coal"
+            ],
+            "quantity": {
+              "min": 3,
+              "max": 5
+            }
+          }
+        },
+		{
+          "selector": {
+            "weight": {
+              "value": 50
+            },
+            "fortuneLevelRequired": 3
+          },
+          "item": {
+            "items": [
+              "minecraft:coal"
+            ],
+            "quantity": {
+              "min": 5,
+              "max": 7
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

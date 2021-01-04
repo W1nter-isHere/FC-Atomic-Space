@@ -1,0 +1,77 @@
+{
+  "rules": [
+    {
+      "match": {
+        "blocks": {
+          "blocks": [
+            "sky_orchards:amber_redstone"
+          ]
+        }
+      },
+      "drops": [
+        {
+          "item": {
+            "items" : [
+              "minecraft:redstone"
+            ],
+			"quantity": {
+              "min": 2,
+              "max": 5
+            }
+          }
+        },
+		{
+          "selector": {
+            "weight": {
+              "value": 30
+            },
+            "fortuneLevelRequired": 1
+          },
+          "item": {
+            "items": [
+              "minecraft:redstone"
+            ],
+            "quantity": {
+              "min": 5,
+              "max": 10
+            }
+          }
+        },
+		{
+          "selector": {
+            "weight": {
+              "value": 50
+            },
+            "fortuneLevelRequired": 2
+          },
+          "item": {
+            "items": [
+              "minecraft:redstone"
+            ],
+            "quantity": {
+              "min": 10,
+              "max": 15
+            }
+          }
+        },
+		{
+          "selector": {
+            "weight": {
+              "value": 60
+            },
+            "fortuneLevelRequired": 3
+          },
+          "item": {
+            "items": [
+              "minecraft:redstone"
+            ],
+            "quantity": {
+              "min": 15,
+              "max": 20
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
