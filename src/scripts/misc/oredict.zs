@@ -43,18 +43,13 @@ artisanshear.add(<primal_tech:bone_shears>);
 artisanshear.add(<thermalfoundation:tool.shears_stone>);
 artisanshear.add(<thermalfoundation:tool.shears_wood>);
 
-//remove aquamarine from silent gems
-<ore:gemAquamarine>.remove(<silentgems:gem:8>);
-
-//remove fluorite from silent gems
-<ore:gemFluorite>.remove(<silentgems:gem:40>);
-<ore:oreFluorite>.remove(<silentgems:gemorelight:8>);
-
 //add microblock saw to artisan saw oredict
 val asaw = <ore:artisansHandsaw>;
 asaw.add(<microblockcbe:saw_stone>);
 asaw.add(<microblockcbe:saw_iron>);
 asaw.add(<microblockcbe:saw_diamond>);
+
+<ore:gemAquamarine>.remove(<silentgems:gem:8>);
 
 //add ambers to ore oredict
 <ore:oreCoal>.add(<sky_orchards:amber_coal>);
@@ -74,3 +69,15 @@ asaw.add(<microblockcbe:saw_diamond>);
 <ore:oreQuartz>.add(<sky_orchards:amber_quartz>);
 <ore:oreAquamarine>.add(<sky_orchards:amber_aquamarine>);
 <ore:oreOsmium>.add(<sky_orchards:amber_osmium>);
+
+//crying obsidian remove obi oredict
+<ore:obsidian>.remove(<cryingobsidian:crying_obsidian_block>);
+
+//custom shears
+<ore:stoneShear>.add(<thermalfoundation:tool.shears_stone>);
+<ore:stoneShear>.add(<contenttweaker:stone_shear>);
+<ore:woodShear>.add(<thermalfoundation:tool.shears_wood>);
+<ore:woodShear>.add(<contenttweaker:wood_shear>);
+
+<ore:blockWarpCoreCore>.remove(<minecraft:gold_block>);
+<ore:blockWarpCoreCore>.add(<draconicevolution:draconic_block>);
