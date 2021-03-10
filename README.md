@@ -1,6 +1,6 @@
 # FC-Atomic-Space
 
-[![Curseforge](https://cf.way2muchnoise.eu/fictioncraft-atomic-space.svg)](https://www.curseforge.com/minecraft/modpacks/fictioncraft-atomic-space) [![Curseforge](http://cf.way2muchnoise.eu/versions/For%20MC_313440_all.svg)](https://www.curseforge.com/minecraft/modpacks/fictioncraft-atomic-space)
+[![Curseforge]((https://www.curseforge.com/minecraft/modpacks/fictioncraft-atomic-space) [![Curseforge](http://cf.way2muchnoise.eu/versions/For%20MC_313440_all.svg)](https://www.curseforge.com/minecraft/modpacks/fictioncraft-atomic-space)
 
 Fictioncraft: Atomic Space is mostly about tech, a bit of magic, and some exploring. There are over 630 quests in this modpack that will act as a comprehensive guide to your journey. You spawn on a icy dimension with no ore generation, a lot of radiation, and an extremely low temperature. There is no nether. You must explore the Overworld-2464's mantle, the Overworld-2464's inner core, the Twilight Forest, and the Overworld-2400's Dangerzone.
 
